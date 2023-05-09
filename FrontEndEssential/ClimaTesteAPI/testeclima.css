@@ -1,0 +1,24 @@
+#temperatura {
+    font-size: 32px;
+    font-weight: bold;
+    background-color: aquamarine;
+  }
+  
+#descricao {
+    font-size: 24px;
+    margin-bottom: 16px;
+    background-color: blue;
+  }
+  
+#icone {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 16px;
+    background-color: azure;
+  }
+  
+#velVento, #umidade {
+    background-color: brown;
+    font-size: 20px;
+  }
+  
